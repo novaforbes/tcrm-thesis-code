@@ -1,7 +1,7 @@
 import pandas as pd
 
 # === Input & Output ===
-input_file = "data_mutations.txt"  # This is the file you just downloaded
+input_file = "data_mutations.txt"  
 output_file = "filtered_missense_lung.csv"
 
 # === Load the data ===
